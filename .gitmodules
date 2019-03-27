@@ -1,0 +1,3 @@
+[submodule "ArduinoCore-k210"]
+	path = ArduinoCore-k210
+	url = https://github.com/Seeed-Studio/ArduinoCore-k210/

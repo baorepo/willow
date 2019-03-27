@@ -1,0 +1,7 @@
+micropython
+micropython.bin  
+micropython.map
+libmicropython.a
+.libs
+build
+
